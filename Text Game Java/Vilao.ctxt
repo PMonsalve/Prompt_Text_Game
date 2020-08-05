@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=nomeChar\ hpChar\ hpMax\ acChar\ dano\ forca\ moedas
+comment0.target=Vilao(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\r\n\ @param\ nomeChar\r\n\ @param\ hpChar\r\n\ @param\ hpMax\r\n\ @param\ acChar\r\n\ @param\ dano\r\n\ @param\ forca\r\n\ @param\ moedas\r\n
+comment1.params=
+comment1.target=int\ pegaDano()
+comment1.text=\r\n\r\n\ @return\r\n
+comment2.params=
+comment2.target=int\ pegaMoedas()
+comment2.text=\r\n\r\n\ @return\r\n
+numComments=3

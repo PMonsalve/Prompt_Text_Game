@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=Nome\ Desc\ Str\ AC\ HP\ Dano\ Tipo\ Peso
+comment0.target=Equip(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\r\n\ @param\ Nome\r\n\ @param\ Desc\r\n\ @param\ Str\r\n\ @param\ AC\r\n\ @param\ HP\r\n\ @param\ Dano\r\n\ @param\ Peso\ \r\n\ @param\ Tipo\ (1\ \=\ armadura,\ 2\ \=\ espada,\ 3\ \=\ amuleto)\r\n
+comment1.params=
+comment1.target=int\ itemStr()
+comment1.text=\r\n\r\n\ @return\r\n
+comment2.params=
+comment2.target=int\ itemAC()
+comment2.text=\r\n\r\n\ @return\r\n
+comment3.params=
+comment3.target=int\ itemHP()
+comment3.text=\r\n\r\n\ @return\r\n
+comment4.params=
+comment4.target=int\ itemDano()
+comment4.text=\r\n\r\n\ @return\r\n
+comment5.params=
+comment5.target=int\ itemTipo()
+comment5.text=\r\n\r\n\ @return\r\n
+numComments=6

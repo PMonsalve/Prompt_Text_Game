@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nome\ desc\ cura\ peso
+comment0.target=Consumivel(java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\r\n\r\n\ @param\ nome\r\n\ @param\ desc\r\n\ @param\ cura\r\n\ @param\ peso\r\n
+comment1.params=
+comment1.target=int\ pegaCura()
+comment1.text=\r\n\r\n\ @return\r\n
+numComments=2

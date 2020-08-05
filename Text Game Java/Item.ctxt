@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nome\ desc\ peso
+comment0.target=Item(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\r\n\ @param\ nome\r\n\ @param\ desc\r\n\ @param\ peso\r\n
+comment1.params=
+comment1.target=java.lang.String\ pegaNome()
+comment1.text=\r\n\r\n\ @return\r\n
+comment2.params=
+comment2.target=java.lang.String\ pegaDescricao()
+comment2.text=\r\n\r\n\ @return\r\n
+comment3.params=
+comment3.target=int\ pegaPeso()
+comment3.text=\r\n\r\n\ @return\r\n
+numComments=4
